@@ -1,3 +1,5 @@
 statsmodels
 pandas
 numpy
+matplotlib
+seaborn
